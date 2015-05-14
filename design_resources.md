@@ -1,4 +1,4 @@
-#  UX/UI Resources
+#  iOS Resources
 
 ###Resoluciones de pantalla de iOS devices
 
