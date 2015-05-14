@@ -11,7 +11,7 @@
 
 ###Guidelines de diseño de Apple
 
--[Designing for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/)
+- [Designing for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/)
 
 
 
