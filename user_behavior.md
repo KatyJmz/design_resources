@@ -1,15 +1,15 @@
 #User Behavior 
 
-####Search 
-- **Search Auto-Complete** <br /> People type considerably slower than they read (Search Auto-Complete).[^1]
+####Accesibility
 
+- Think about if we are using enough contrasts for people who is not using the latests monitor technology [^3]
+ 
 ####Loading time
 
 - Studies show that consumers’ average waiting patience (for a page load) is 2 to 4 seconds. Above that range, the abandonment rate rises exponentially.[^2]
 
-####Accesibility
-
-- Think about if we are using enough contrasts for people who is not using the latests monitor technology [^3]
+####Search 
+- **Search Auto-Complete** <br /> People type considerably slower than they read (Search Auto-Complete).[^1]
 
 ####User Sessions
 - In fact, the average mobile session duration is 72 seconds. In comparison, our own studies show that on desktop, the average session is 150 seconds: more than twice as large. [^4]
