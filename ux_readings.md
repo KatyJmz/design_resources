@@ -8,6 +8,22 @@
 
 - [Dear web designer, let's stop breaking the affordance of scrolling](https://medium.com/user-experience-design-1/dear-web-designer-let-s-stop-breaking-the-affordance-of-scrolling-fe8bf258df7b)
 
+####Ecommerce
+- [Ecommerce best practices 2015: 5 must-know tips to increase your online sales.](http://wemakewebsites.com/blog/ecommerce-best-practices-2015-5-must-know-tips-to-increase-your-online-sales)
+- [What Makes Great Ecommerce Website Design? Part 2: The Category Page](http://www.smartinsights.com/conversion-optimisation/product-page-optimisation/category-page-best-practices/)
+- [Ecommerce main category page layout: Where to place key elements and why](https://econsultancy.com/blog/65268-ecommerce-main-category-page-layout-where-to-place-key-elements-and-why/)
+- [105 User Experience Tips: How to Seduce Ecommerce Visitors to Buy](https://intertwinemarketing.com/ecommerce-user-experience/)
+
+
+####Grid System Resources
+
+- [Fixed vs. Fluid vs. Elastic Layout: What's The Right For you?](http://www.smashingmagazine.com/2009/06/02/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/)
+- [The Grid System](http://www.thegridsystem.org/)
+- [All About Grid Systems](http://webdesign.tutsplus.com/articles/all-about-grid-systems--webdesign-14471)
+- [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/)
+- [Different Grid Types (Susy)](http://susy.oddbird.net/demos/grid-types/)
+
+
 ####Magento
 
 - [Magento Performance Optimization](http://www.ecommercepartners.net/Services/Ecommerce-Solutions/Magento-Optimization.shtml)
