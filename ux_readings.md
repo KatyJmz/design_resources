@@ -47,6 +47,11 @@
 - [4 Tips for your Mobilegeddon-inspired responsive design](http://www.creativebloq.com/rwd/mobilegeddon-inspired-responsive-redesign-51514913?utm_campaign=Weekly+Digest&utm_source=hs_email&utm_medium=email&utm_content=17692571&_hsenc=p2ANqtz-9Z9FEIQBUp-CVqHns9KcQGiU-YQnZfWDjTMmcHVxQe0uzgKPCfQTdHdRxO2yfKoInqEAGsLDQXA7V7zb17M1pFb5YNscJmba_0FHlghlvEOce1sLQ&_hsmi=17692571) 
 
 
+####Registration
+- [Don't Force Users to Register Before They Can Buy](http://www.nngroup.com/articles/optional-registration/?utm_source=Alertbox&utm_campaign=b9b0e53562-Guest_Checkout_Mobile_Ad_Placement_07_05_2015&utm_medium=email&utm_term=0_7f29a2b335-b9b0e53562-40130481)
+
+
+
 ####Search
 
 - [Predictive Search: Is This the Future or the End of Search?](http://www.wordstream.com/blog/ws/2013/06/24/predictive-search)

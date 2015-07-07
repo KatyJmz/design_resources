@@ -16,6 +16,10 @@ Notes on User behavior
 
 - Studies show that consumers’ average waiting patience (for a page load) is 2 to 4 seconds. Above that range, the abandonment rate rises exponentially.[^2]
 
+####Registration
+- Shoppers have many reasons to dislike or dread site registration. They may not plan to return to the site again, making a one-time purchase or a gift purchase. They may dislike registration in general, frustrated with remembering usernames and passwords for all the sites they visit. Some shoppers don’t want a site to save personal information and assume that if they register for the site, the information will be saved. Many users associate registration with getting unwanted email, and for good reason, since many sites offer tiny preselected checkboxes to sign up for email newsletters.[^7]
+ 
+  
 ####Search 
 - **Search Auto-Complete** <br /> People type considerably slower than they read (Search Auto-Complete).[^1]
 
@@ -33,3 +37,5 @@ Notes on User behavior
 [^5]:[There is no fold](http://www.lukew.com/ff/entry.asp?1946)
 
 [^6]:[There is no fold](http://www.lukew.com/ff/entry.asp?1946)
+
+[^7]:[http://www.nngroup.com/articles/optional-registration/?utm_source=Alertbox&utm_campaign=b9b0e53562-Guest_Checkout_Mobile_Ad_Placement_07_05_2015&utm_medium=email&utm_term=0_7f29a2b335-b9b0e53562-40130481]
